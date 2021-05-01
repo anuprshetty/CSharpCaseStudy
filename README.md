@@ -28,7 +28,7 @@
 - Open C# solution **HealthBot.sln** in Microsoft Visual Studio.
 - Install all the built-in packages required for C# solution using Microsoft Visual Studio.
 - Establish a connectivity to database server using **Server Explorer** in Microsoft Visual Studio.
-- Run the batch file **AutoBuild.bat** to chat with **HealthBot**.
+- Run the batch file **AutoBuildRun.bat** to chat with **HealthBot**.
 
 ## References:
 - [Philips Patient Monitors](https://www.philips.co.in/healthcare/solutions/patient-monitoring/patient-monitoring)
@@ -37,4 +37,4 @@
 - [LinkedIn](https://www.linkedin.com/in/anuprshetty/)
 - [HackerRank](https://www.hackerrank.com/anuprshetty)
 
-[Back To The Top](#IPL-Tree)
+[Back To The Top](#HealthBot)
