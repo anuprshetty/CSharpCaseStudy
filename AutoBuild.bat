@@ -5,7 +5,7 @@ echo.
 echo.
 echo --------------------------------------------------------
 
-set SolutionPath=./HealthBotConsole.sln
+set SolutionPath=./HealthBot.sln
 call %windir%\Microsoft.NET\Framework\v4.0.30319\msbuild.exe /m /nologo %SolutionPath%
 
 echo --------------------------------------------------------
