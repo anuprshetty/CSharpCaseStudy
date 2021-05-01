@@ -23,7 +23,7 @@ A **patient monitor** is an electronic medical device that consists of one of mo
 ![HealthBot Database_Model](https://github.com/anuprshetty/HealthBot/blob/master/images/DBSchema_to_DBObject.png)
 
 ## Tools and Technologies Used:
-- Visual Studio
+- Microsoft Visual Studio
 - C# (.NET Framework)
 - Microsoft SQL Server Express Edition
 - Microsoft SQL Server Management Studio
