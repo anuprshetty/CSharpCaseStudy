@@ -1,5 +1,5 @@
 # HealthBot
-**HealthBot** is a console based chatbot application which helps a ***clinical person*** to easily select ***patient monitoring devices*** based on his needs.   
+**HealthBot** is a console based chatbot application which helps a ***clinical person*** to easily select available ***patient monitoring devices*** based on his needs.   
 ***ChatBot*** asks a set of multiple-choice questions to clinical person and based on his choices, suitable patient monitors are suggested to him. Questions are formed on various features of different patient monitors.
 
 ## UML Class Diagram:
